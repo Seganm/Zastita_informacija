@@ -1,0 +1,395 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|c:\\users\\milos milenkovic\\desktop\\new folder\\zastitainformacija\\zastitaprojekat\\zastitaprojekat\\fsw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|solutionrelative:zastitaprojekat\\fsw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|c:\\users\\milos milenkovic\\desktop\\new folder\\zastitainformacija\\zastitaprojekat\\zastitaprojekat\\ctr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|solutionrelative:zastitaprojekat\\ctr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|c:\\users\\milos milenkovic\\desktop\\new folder\\zastitainformacija\\zastitaprojekat\\zastitaprojekat\\fswwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|solutionrelative:zastitaprojekat\\fswwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\zastitaprojekat\\fswwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|solutionrelative:zastitaprojekat\\fswwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|c:\\users\\milos milenkovic\\desktop\\new folder\\zastitainformacija\\zastitaprojekat\\zastitaprojekat\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|solutionrelative:zastitaprojekat\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|c:\\users\\milos milenkovic\\desktop\\new folder\\zastitainformacija\\zastitaprojekat\\zastitaprojekat\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|solutionrelative:zastitaprojekat\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|c:\\users\\milos milenkovic\\desktop\\new folder\\zastitainformacija\\zastitaprojekat\\zastitaprojekat\\sha2helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|solutionrelative:zastitaprojekat\\sha2helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|c:\\users\\milos milenkovic\\desktop\\new folder\\zastitainformacija\\zastitaprojekat\\zastitaprojekat\\lea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|solutionrelative:zastitaprojekat\\lea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|c:\\users\\milos milenkovic\\desktop\\new folder\\zastitainformacija\\zastitaprojekat\\zastitaprojekat\\filesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|solutionrelative:zastitaprojekat\\filesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|c:\\users\\milos milenkovic\\desktop\\new folder\\zastitainformacija\\zastitaprojekat\\zastitaprojekat\\filereceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|solutionrelative:zastitaprojekat\\filereceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|c:\\users\\milos milenkovic\\desktop\\new folder\\zastitainformacija\\zastitaprojekat\\zastitaprojekat\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|solutionrelative:zastitaprojekat\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\zastitaprojekat\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|solutionrelative:zastitaprojekat\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|c:\\users\\milos milenkovic\\desktop\\new folder\\zastitainformacija\\zastitaprojekat\\zastitaprojekat\\receivewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|solutionrelative:zastitaprojekat\\receivewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\zastitaprojekat\\receivewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|solutionrelative:zastitaprojekat\\receivewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|c:\\users\\milos milenkovic\\desktop\\new folder\\zastitainformacija\\zastitaprojekat\\zastitaprojekat\\sendwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|solutionrelative:zastitaprojekat\\sendwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\zastitaprojekat\\sendwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|solutionrelative:zastitaprojekat\\sendwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|c:\\users\\milos milenkovic\\desktop\\new folder\\zastitainformacija\\zastitaprojekat\\zastitaprojekat\\encryptwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|solutionrelative:zastitaprojekat\\encryptwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\zastitaprojekat\\encryptwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|solutionrelative:zastitaprojekat\\encryptwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|c:\\users\\milos milenkovic\\desktop\\new folder\\zastitainformacija\\zastitaprojekat\\zastitaprojekat\\decryptwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|solutionrelative:zastitaprojekat\\decryptwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\zastitaprojekat\\decryptwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|solutionrelative:zastitaprojekat\\decryptwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|c:\\users\\milos milenkovic\\desktop\\new folder\\zastitainformacija\\zastitaprojekat\\zastitaprojekat\\decryptpromptdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|solutionrelative:zastitaprojekat\\decryptpromptdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\zastitaprojekat\\decryptpromptdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ABADA2F9-10DB-4FBD-B194-F9281873D250}|ZastitaProjekat\\ZastitaProjekat.csproj|solutionrelative:zastitaprojekat\\decryptpromptdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileReceiver.cs",
+              "DocumentMoniker": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\FileReceiver.cs",
+              "RelativeDocumentMoniker": "ZastitaProjekat\\FileReceiver.cs",
+              "ToolTip": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\FileReceiver.cs",
+              "RelativeToolTip": "ZastitaProjekat\\FileReceiver.cs",
+              "ViewState": "AgIAACUBAAAAAAAAAAAmwLoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T13:06:04.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ctr.cs",
+              "DocumentMoniker": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\Ctr.cs",
+              "RelativeDocumentMoniker": "ZastitaProjekat\\Ctr.cs",
+              "ToolTip": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\Ctr.cs",
+              "RelativeToolTip": "ZastitaProjekat\\Ctr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T13:05:48.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FSW.cs",
+              "DocumentMoniker": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\FSW.cs",
+              "RelativeDocumentMoniker": "ZastitaProjekat\\FSW.cs",
+              "ToolTip": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\FSW.cs",
+              "RelativeToolTip": "ZastitaProjekat\\FSW.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T10:40:29.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\MainForm.cs",
+              "RelativeDocumentMoniker": "ZastitaProjekat\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\MainForm.cs [Design]",
+              "RelativeToolTip": "ZastitaProjekat\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:34:04.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\MainForm.cs",
+              "RelativeDocumentMoniker": "ZastitaProjekat\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\MainForm.cs",
+              "RelativeToolTip": "ZastitaProjekat\\MainForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:34:06.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SendWindow.cs",
+              "DocumentMoniker": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\SendWindow.cs",
+              "RelativeDocumentMoniker": "ZastitaProjekat\\SendWindow.cs",
+              "ToolTip": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\SendWindow.cs",
+              "RelativeToolTip": "ZastitaProjekat\\SendWindow.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAtwFcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:54:55.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TEA.cs",
+              "DocumentMoniker": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\TEA.cs",
+              "RelativeDocumentMoniker": "ZastitaProjekat\\TEA.cs",
+              "ToolTip": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\TEA.cs",
+              "RelativeToolTip": "ZastitaProjekat\\TEA.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAuwHQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:33:50.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FswWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\FswWindow.cs",
+              "RelativeDocumentMoniker": "ZastitaProjekat\\FswWindow.cs",
+              "ToolTip": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\FswWindow.cs [Design]",
+              "RelativeToolTip": "ZastitaProjekat\\FswWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:53:11.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\Settings.cs",
+              "RelativeDocumentMoniker": "ZastitaProjekat\\Settings.cs",
+              "ToolTip": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\Settings.cs",
+              "RelativeToolTip": "ZastitaProjekat\\Settings.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T13:07:17.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FswWindow.cs",
+              "DocumentMoniker": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\FswWindow.cs",
+              "RelativeDocumentMoniker": "ZastitaProjekat\\FswWindow.cs",
+              "ToolTip": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\FswWindow.cs",
+              "RelativeToolTip": "ZastitaProjekat\\FswWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:53:13.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileSender.cs",
+              "DocumentMoniker": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\FileSender.cs",
+              "RelativeDocumentMoniker": "ZastitaProjekat\\FileSender.cs",
+              "ToolTip": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\FileSender.cs",
+              "RelativeToolTip": "ZastitaProjekat\\FileSender.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T13:06:58.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LEA.cs",
+              "DocumentMoniker": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\LEA.cs",
+              "RelativeDocumentMoniker": "ZastitaProjekat\\LEA.cs",
+              "ToolTip": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\LEA.cs",
+              "RelativeToolTip": "ZastitaProjekat\\LEA.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwGIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T13:07:08.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SendWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\SendWindow.cs",
+              "RelativeDocumentMoniker": "ZastitaProjekat\\SendWindow.cs",
+              "ToolTip": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\SendWindow.cs [Design]",
+              "RelativeToolTip": "ZastitaProjekat\\SendWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:54:54.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SHA2Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\SHA2Helper.cs",
+              "RelativeDocumentMoniker": "ZastitaProjekat\\SHA2Helper.cs",
+              "ToolTip": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\SHA2Helper.cs",
+              "RelativeToolTip": "ZastitaProjekat\\SHA2Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:33:59.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReceiveWindow.cs",
+              "DocumentMoniker": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\ReceiveWindow.cs",
+              "RelativeDocumentMoniker": "ZastitaProjekat\\ReceiveWindow.cs",
+              "ToolTip": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\ReceiveWindow.cs",
+              "RelativeToolTip": "ZastitaProjekat\\ReceiveWindow.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAQwN8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:56:53.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReceiveWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\ReceiveWindow.cs",
+              "RelativeDocumentMoniker": "ZastitaProjekat\\ReceiveWindow.cs",
+              "ToolTip": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\ReceiveWindow.cs [Design]",
+              "RelativeToolTip": "ZastitaProjekat\\ReceiveWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:56:52.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EncryptWindow.cs",
+              "DocumentMoniker": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\EncryptWindow.cs",
+              "RelativeDocumentMoniker": "ZastitaProjekat\\EncryptWindow.cs",
+              "ToolTip": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\EncryptWindow.cs",
+              "RelativeToolTip": "ZastitaProjekat\\EncryptWindow.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAwE0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:51:03.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EncryptWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\EncryptWindow.cs",
+              "RelativeDocumentMoniker": "ZastitaProjekat\\EncryptWindow.cs",
+              "ToolTip": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\EncryptWindow.cs [Design]",
+              "RelativeToolTip": "ZastitaProjekat\\EncryptWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:51:02.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DecryptWindow.cs",
+              "DocumentMoniker": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\DecryptWindow.cs",
+              "RelativeDocumentMoniker": "ZastitaProjekat\\DecryptWindow.cs",
+              "ToolTip": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\DecryptWindow.cs",
+              "RelativeToolTip": "ZastitaProjekat\\DecryptWindow.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwFEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:47:54.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DecryptWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\DecryptWindow.cs",
+              "RelativeDocumentMoniker": "ZastitaProjekat\\DecryptWindow.cs",
+              "ToolTip": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\DecryptWindow.cs [Design]",
+              "RelativeToolTip": "ZastitaProjekat\\DecryptWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:47:52.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DecryptPromptDialog.cs",
+              "DocumentMoniker": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\DecryptPromptDialog.cs",
+              "RelativeDocumentMoniker": "ZastitaProjekat\\DecryptPromptDialog.cs",
+              "ToolTip": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\DecryptPromptDialog.cs",
+              "RelativeToolTip": "ZastitaProjekat\\DecryptPromptDialog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:42:17.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DecryptPromptDialog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\DecryptPromptDialog.cs",
+              "RelativeDocumentMoniker": "ZastitaProjekat\\DecryptPromptDialog.cs",
+              "ToolTip": "C:\\Users\\Milos Milenkovic\\Desktop\\New folder\\ZastitaInformacija\\ZastitaProjekat\\ZastitaProjekat\\DecryptPromptDialog.cs [Design]",
+              "RelativeToolTip": "ZastitaProjekat\\DecryptPromptDialog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T09:42:15.829Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
